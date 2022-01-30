@@ -1,0 +1,2 @@
+# planets
+multiple inheritance example
