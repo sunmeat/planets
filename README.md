@@ -1,2 +1,2 @@
 # planets
-multiple inheritance example
+multiple inheritance cpp example
